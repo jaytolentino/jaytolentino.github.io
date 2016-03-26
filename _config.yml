@@ -1,12 +1,12 @@
 # main text of home
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
+name: Jay Tolentino
+bio: 'rainbow cat leader'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: http://jaytolentino.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -25,17 +25,17 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: heyyyjay
 # google: mygoogle
-# instagram: myinstagram
+instagram: jaytolentino_
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-email: myemail@gmail.com
+linkedin: jltolent
+# youtube: myyoutube
+# spotify: myspotify
+github: jaytolentino
+medium: heyyyjay
+email: jltolent@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -47,7 +47,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -57,13 +57,13 @@ blog: true
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
-related: true
+related: false
 
 # do you want some animations?
-animation: true
+animation: false
 
 gems:
   - jemoji
