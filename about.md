@@ -1,47 +1,29 @@
 ---
-title: About
+title: About Jay
 layout: page
 permalink: /about/index.html
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h1>About Me</h1>
+<h2>Coder  &nbsp;  Strategist  &nbsp;  Entrepreneur</h2>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Introverted Intuitive Feeling Judging (INFJ)<br />
+Restorative, Futuristic, Belief, Achiever, Ideation <small>([?](http://www.tomrath.org/book/strengthsfinder/))</small>
 
-<h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+Currently a software developer working on the [Nuzzel Android
+app](https://play.google.com/store/apps/details?id=com.nuzzel.android). 
+Aspiring entreprenuer taking on interesting problems with the 
+[Linked Ladies](http://linkedladies.com/).
 
-<h2>Projects</h2>
+<h2>Timeline</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+* <span class="evidence">2014 - present: Android @ Nuzzel</span>
+* 2013 - 2014: undergrad research @ UCI
+* 2013 - 2014: iOS intern @ Medl Mobile
+* Summer 2013: undergrad research @ HCII (CMU)
+
+<h2>Education</h2>
+B.S. Informatics (specializing in HCI)<br />
+University of California, Irvine
