@@ -27,3 +27,10 @@ Aspiring entreprenuer taking on interesting problems with the
 <h2>Education</h2>
 B.S. Informatics (specializing in HCI)<br />
 University of California, Irvine
+
+- - -
+
+Learn more by subscribing to my newsletter, with articles on tech, politics, diversity, social justice, and more!
+
+<div class="nuzzel-subscription-widget" data-username="heyyyjay"><a href="https://nuzzel.com/heyyyjay" target="_blank">Read Jay Tolentino's Newsletter on Nuzzel.</a></div>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://nuzzel.com/static/scripts/widget.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','nuzzel-subscription-widget-js');</script>
