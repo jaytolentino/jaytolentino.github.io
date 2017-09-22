@@ -25,7 +25,7 @@ Aspiring entreprenuer taking on interesting problems with the
 
 <h2>Education</h2>
 B.S. Informatics (specializing in HCI)<br />
-University of California, Irvine
+University of California, Irvine (2009-2014)
 
 - - -
 
