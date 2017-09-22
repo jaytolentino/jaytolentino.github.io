@@ -12,17 +12,16 @@ Introverted Intuitive Feeling Judging (INFJ)<br />
 Restorative, Futuristic, Belief, Achiever, Ideation <small>([?](http://www.tomrath.org/book/strengthsfinder/))</small>
 
 
-Currently a software developer working on the [Nuzzel Android
-app](https://play.google.com/store/apps/details?id=com.nuzzel.android). 
+Currently a software developer at Nuzzel working on the [Android
+app](https://play.google.com/store/apps/details?id=com.nuzzel.android), [FB Messenger chat bot](https://m.me/nuzzelnews), and [Media Intelligence](http://nuzzel.com/intelligence) product. 
 Aspiring entreprenuer taking on interesting problems with the 
 [Linked Ladies](http://linkedladies.com/).
 
 <h2>Timeline</h2>
 
-* <span class="evidence">2014 - present: Android @ Nuzzel</span>
+* <span class="evidence">2014 - present: software dev @ Nuzzel</span>
 * 2013 - 2014: undergrad research @ UCI
-* 2013 - 2014: iOS intern @ Medl Mobile
-* Summer 2013: undergrad research @ HCII (CMU)
+* Sum 2013: undergrad research @ HCII (Carnegie Mellon Univ.)
 
 <h2>Education</h2>
 B.S. Informatics (specializing in HCI)<br />
