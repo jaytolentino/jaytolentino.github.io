@@ -24,7 +24,7 @@ Aspiring entreprenuer taking on interesting problems with the
 * Sum 2013: undergrad research @ HCII (Carnegie Mellon Univ.)
 
 <h2>Education</h2>
-B.S. Informatics (specializing in HCI)<br />
+B.S. Informatics, specializing in HCI<br />
 University of California, Irvine (2009-2014)
 
 - - -
