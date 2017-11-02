@@ -14,8 +14,7 @@ Restorative, Futuristic, Belief, Achiever, Ideation <small>([?](http://www.tomra
 
 Currently a software developer at Nuzzel working on the [Android
 app](https://play.google.com/store/apps/details?id=com.nuzzel.android), [FB Messenger chat bot](https://m.me/nuzzelnews), and [Media Intelligence](http://nuzzel.com/intelligence) product. 
-Aspiring entreprenuer taking on interesting problems with the 
-[Linked Ladies](http://linkedladies.com/).
+Aspiring entreprenuer taking on interesting problems around AI/machine learning and consumer technology.
 
 <h2>Timeline</h2>
 
