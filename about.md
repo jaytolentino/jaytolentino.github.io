@@ -6,19 +6,20 @@ permalink: /about/index.html
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h1>About Me</h1>
-<h2>Coder  &nbsp;  Strategist  &nbsp;  Entrepreneur</h2>
+<h2>Entrepreneur  &nbsp;  Coder  &nbsp;  Strategist</h2>
 
 Introverted Intuitive Feeling Judging (INFJ)<br />
 Restorative, Futuristic, Belief, Achiever, Ideation <small>([?](http://www.tomrath.org/book/strengthsfinder/))</small>
 
 
-Currently a software developer at Nuzzel working on the [Android
+Co-founder of Morena. Previously a software developer at Nuzzel working on the [Android
 app](https://play.google.com/store/apps/details?id=com.nuzzel.android), [FB Messenger chat bot](https://m.me/nuzzelnews), and [Media Intelligence](http://nuzzel.com/intelligence) product. 
-Aspiring entreprenuer interested in the intersection of AI/machine learning and consumer technology.
+Generally interested in the intersection of AI/machine learning and consumer technology.
 
 <h2>Timeline</h2>
 
-* <span class="evidence">2014 - present: software dev @ Nuzzel</span>
+* <span class="evidence">2017 - present: co-founder @ Morena</span>
+* 2014 - 2017: software dev @ Nuzzel
 * 2013 - 2014: undergrad research @ UCI
 * Sum 2013: undergrad research @ HCII (Carnegie Mellon Univ.)
 
