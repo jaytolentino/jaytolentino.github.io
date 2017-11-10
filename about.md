@@ -12,13 +12,13 @@ Introverted Intuitive Feeling Judging (INFJ)<br />
 Restorative, Futuristic, Belief, Achiever, Ideation <small>([?](http://www.tomrath.org/book/strengthsfinder/))</small>
 
 
-Co-founder of Morena. Previously a software developer at Nuzzel working on the [Android
+Co-founder of a stealth startup. Previously a software developer at Nuzzel working on the [Android
 app](https://play.google.com/store/apps/details?id=com.nuzzel.android), [FB Messenger chat bot](https://m.me/nuzzelnews), and [Media Intelligence](http://nuzzel.com/intelligence) product. 
 Generally interested in the intersection of AI/machine learning and consumer technology.
 
 <h2>Timeline</h2>
 
-* <span class="evidence">2017 - present: co-founder @ Morena</span>
+* <span class="evidence">2017 - present: co-founder @ stealth startup</span>
 * 2014 - 2017: software dev @ Nuzzel
 * 2013 - 2014: undergrad research @ UCI
 * Sum 2013: undergrad research @ HCII (Carnegie Mellon Univ.)
