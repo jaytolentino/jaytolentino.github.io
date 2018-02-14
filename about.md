@@ -18,7 +18,7 @@ Generally interested in the intersection of AI/machine learning and consumer tec
 
 <h2>Timeline</h2>
 
-* <span class="evidence">2017 - present: co-founder @ stealth startup</span>
+* <span class="evidence">2017 - present: founder @ stealth startup</span>
 * 2014 - 2017: software dev @ Nuzzel
 * 2013 - 2014: undergrad research @ UCI
 * Sum 2013: undergrad research @ HCII (Carnegie Mellon Univ.)
